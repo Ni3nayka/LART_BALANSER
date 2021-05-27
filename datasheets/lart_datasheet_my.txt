@@ -1,0 +1,15 @@
+l293d:
+i1 = D7
+i2 = D8
+i3 = D5
+i4 = D4
+e1 = D6
+e2 = D3
+
+pins:
+A7, A6, A3
+D13, D12, D11, D10, D9, D1, D0
+
+mpu6050:
+scl = A5
+sda = A4

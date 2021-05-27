@@ -1,0 +1,5 @@
+l293d:
+https://all-audio.pro/c23/prays-listi/l293d-datasheet.php
+
+mpu6050:
+https://robotclass.ru/tutorials/arduino-accelerometer-mpu6050/
