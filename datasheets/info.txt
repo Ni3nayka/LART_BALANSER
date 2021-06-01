@@ -3,3 +3,7 @@ https://all-audio.pro/c23/prays-listi/l293d-datasheet.php
 
 mpu6050:
 https://robotclass.ru/tutorials/arduino-accelerometer-mpu6050/
+https://alexgyver.ru/arduino-mpu6050/
+
+libs:
+https://alexgyver.ru/lessons/library-writing/
