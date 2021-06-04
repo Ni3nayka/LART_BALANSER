@@ -7,3 +7,7 @@ https://alexgyver.ru/arduino-mpu6050/
 
 libs:
 https://alexgyver.ru/lessons/library-writing/
+
+PID:
+https://www.youtube.com/watch?v=KRKxXWf-SCY
+https://www.youtube.com/watch?v=bihVHGkakFE
